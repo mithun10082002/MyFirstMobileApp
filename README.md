@@ -1,5 +1,5 @@
 # MyFirstMobileApp
-Simple Mobile Application.
+Simple Mobile Application using React Native
 ## How It Works
 Whatever you type and click submit will be displayed on the screen.
 ## How To Use
